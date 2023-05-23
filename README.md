@@ -12,3 +12,6 @@
 
 ![DandieKYT GitHub stats](https://github-readme-stats.vercel.app/api?username=DandieKYT)
 
+<h1>Мое резюме на HH</br>
+
+
