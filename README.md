@@ -17,6 +17,7 @@
 <code><a href = "https://www.postman.com/">![This is an image](/design/icons/postman.png)</a></code>
 <code><a href = "https://git-scm.com/">![This is an image](/design/icons/git.png)</a></code>
 <code><a href = "https://github.com/">![This is an image](/design/icons/GitHub.png)</a></code>
+<code><a href = "https://github.com/">![This is an image](/design/icons/GitHub.png)</a></code>
 </br>
 <h1>:star2: Мои сертификаты:</h1></a>
 
