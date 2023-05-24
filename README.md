@@ -3,7 +3,7 @@
 <h2>Я  QA Engineer:sunglasses:</h2>
 <h2> :trophy:  Мои инструменты и технологии:</h2>
 
-<code><p><a href = "https://www.java.com/ru/">!![This is an image](/design/icons/Java.png)</a></p></code>
+<code><p><a href = "https://www.java.com/ru/">![This is an image](/design/icons/Java.png)</a></p></code>
 <code>![This is an image](/design/icons/Gradle.png)</code>
 <code>![This is an image](/design/icons/Intelij_IDEA.png)</code>
 <code>![This is an image](/design/icons/Selenide.png)</code>
