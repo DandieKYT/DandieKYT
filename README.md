@@ -4,7 +4,7 @@
 <h2> :trophy:  Мои инструменты и технологии:</h2>
 
 <code><a href = "https://www.java.com/ru/">![This is an image](/design/icons/Java.png)</a></code>
-<code><a href = "https://gradle.org/">![This is an image](/design/icons/Gradle.png)</a></code>
+<code><a href = "https://gradle.org/">![This is an image](/design/icons/gradle.png)</a></code>
 <code><a href = "https://www.jetbrains.com/ru-ru/idea/">![This is an image](/design/icons/Intelij_IDEA.png)</a></code>
 <code><a href = "https://ru.selenide.org/">![This is an image](/design/icons/Selenide.png)</a></code>
 <code><a href = "https://selenoid.autotests.cloud/#/">![This is an image](/design/icons/Selenoid.png)</a></code>
