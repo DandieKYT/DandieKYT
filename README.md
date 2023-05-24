@@ -13,7 +13,7 @@
 <code><a href = "https://github.com/allure-framework">![This is an image](/design/icons/Allure_Report.png)</a></code>
 <code><a href = "https://qameta.io/">![This is an image](/design/icons/AllureTestOps.png)</a></code>
 <code><a href = "https://web.telegram.org/k/">![This is an image](/design/icons/Telegram.png)</a></code>
-<code><a href = "https://www.atlassian.com/ru/software/jira">[This is an image](/design/icons/Jira.png)</a></code>
+<code><a href = "https://www.atlassian.com/ru/software/jira">![This is an image](/design/icons/Jira.png)</a></code>
 <code><a href = "https://www.postman.com/">![This is an image](/design/icons/postman.png)</a></code>
 <code><a href = "https://git-scm.com/">![This is an image](/design/icons/git.png)</a></code>
 <code><a href = "https://github.com/">![This is an image](/design/icons/GitHub.png)</a></code>
