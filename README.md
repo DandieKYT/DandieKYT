@@ -20,6 +20,7 @@
 <code><a href = "https://developer.chrome.com/docs/devtools/">![This is an image](/design/icons/devtools.png)</a></code>
 
 <code><a href = "https://notepad-plus-plus.org/">![This is an image](/design/icons/notepad.png)</a></code>
+<code><a href = "https://www.mysql.com/">![This is an image](/design/icons/sql.png)</a></code>
 </br>
 <h1>:star2: Мои сертификаты:</h1></a>
 
