@@ -21,9 +21,9 @@
 </br>
 <h1>:star2: Мои сертификаты:</h1></a>
 
-## <a href = "https://www.postman.com/"><img src="/design/sert/QAGAME.png" width="185" height="105"/></a> <a target="_blank" href="https://stepik.org/cert/1699860">    Основы тестирования игр</a>
+## <a href = "https://stepik.org/cert/1699860"><img src="/design/sert/QAGAME.png" width="185" height="105"/></a> <a target="_blank" href="https://stepik.org/cert/1699860">    Основы тестирования игр</a>
 
-## <img src="/design/sert/QAPOSTMAN.png" width="185" height="105"/></a> <a target="_blank" href="https://stepik.org/cert/1729272">  Тестирование ПО: Postman для тестирования API</a>
+## <a href = "https://stepik.org/cert/1729272"><img src="/design/sert/QAPOSTMAN.png" width="185" height="105"/></a> <a target="_blank" href="https://stepik.org/cert/1729272">  Тестирование ПО: Postman для тестирования API</a>
 
 ![DandieKYT GitHub stats](https://github-readme-stats.vercel.app/api?username=DandieKYT)
 
