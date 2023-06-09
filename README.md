@@ -24,7 +24,7 @@
 <code><a href = "https://www.mysql.com/">![This is an image](/design/icons/sql.png)</a></code>
 <code><a href = "https://ru.wikipedia.org/wiki/HTML">![This is an image](/design/icons/html.png)</a></code>
 <code><a href = "https://ru.wikipedia.org/wiki/CSS">![This is an image](/design/icons/css.png)</a></code>
-<code><a href = "https://www.browserstack.com/">[This is an image](/design/icons/css.png)</a></code>
+<code><a href = "https://www.browserstack.com/">[This is an image](/design/icons/browserstack.png)</a></code>
 <code><a href = "https://appium.io/docs/en/2.0/">[This is an image](/design/icons/appium.png)</a></code>
 <code><a href = "https://developer.android.com/studio">[This is an image](/design/icons/androidstudio.png)</a></code>
 </br>
