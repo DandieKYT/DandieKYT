@@ -34,7 +34,6 @@
 
 ## <a href = "https://stepik.org/cert/1729272"><img src="/design/sert/QAPOSTMAN.png" width="185" height="105"/></a> <a target="_blank" href="https://stepik.org/cert/1729272">  Тестирование ПО: Postman для тестирования API</a>
 
-![DandieKYT GitHub stats](https://github-readme-stats.vercel.app/api?username=DandieKYT)
 
 
 
