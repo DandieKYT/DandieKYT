@@ -20,6 +20,7 @@
 <code><a href = "https://github.com/">![This is an image](/design/icons/GitHub.png)</a></code>
 <code><a href = "https://developer.chrome.com/docs/devtools/">![This is an image](/design/icons/devtools.png)</a></code>
 
+
 <code><a href = "https://notepad-plus-plus.org/">![This is an image](/design/icons/notepad.png)</a></code>
 <code><a href = "https://www.mysql.com/">![This is an image](/design/icons/sql.png)</a></code>
 <code><a href = "https://ru.wikipedia.org/wiki/HTML">![This is an image](/design/icons/html.png)</a></code>
@@ -27,6 +28,7 @@
 <code><a href = "https://www.browserstack.com/">![This is an image](/design/icons/browserstack.png)</a></code>
 <code><a href = "https://appium.io/docs/en/2.0/">![This is an image](/design/icons/appium.png)</a></code>
 <code><a href = "https://developer.android.com/studio">![This is an image](/design/icons/androidstudio.png)</a></code>
+<code><a href = "https://rest-assured.io//">![This is an image](/design/icons/Rest-Assured.png)</a></code>
 </br>
 <h1>:star2: Мои сертификаты:</h1></a>
 
