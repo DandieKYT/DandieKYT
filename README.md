@@ -1,6 +1,6 @@
 <h1>Добро пожаловать!</br>
  Привет, я Даниил <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2>Я  QA Engineer:sunglasses:</h2>
+<h2>Я  QA Engineer :sunglasses:</h2>
 <h1>Мое резюме на  <a target="_blank" href="https://spb.hh.ru/applicant/resumes/view?resume=0406a5a7ff0bfe9c150039ed1f417068784971">HH</a></br>
 <h2> :trophy:  Мои инструменты и технологии:</h2>
 
