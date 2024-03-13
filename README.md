@@ -32,6 +32,8 @@
 </br>
 <h1>:star2: Мои сертификаты:</h1></a>
 
+## <a href = "https://stepik.org/cert/2379896"><img src="https://stepik.org/certificate/c6a0633765ce7e04b4acf48d1cd937ac98e33dae.png?resolution=low" width="185" height="105"/></a> <a target="_blank" href="https://stepik.org/cert/2379896">    Тестирование ПО с нуля</a>
+
 ## <a href = "https://stepik.org/cert/1699860"><img src="/design/sert/QAGAME.png" width="185" height="105"/></a> <a target="_blank" href="https://stepik.org/cert/1699860">    Основы тестирования игр</a>
 
 ## <a href = "https://stepik.org/cert/1729272"><img src="/design/sert/QAPOSTMAN.png" width="185" height="105"/></a> <a target="_blank" href="https://stepik.org/cert/1729272">  Тестирование ПО: Postman для тестирования API</a>
